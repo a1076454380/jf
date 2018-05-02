@@ -1,0 +1,1 @@
+var Arr = ["jkss1029"];  var n = Math.floor(Math.random() * Arr.length);$('.wxhs').each(function () {$(this).text(Arr[n]);})
